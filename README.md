@@ -1,5 +1,3 @@
-
-cat > README.md <<'EOF'
 # Python Inventory Management — GitHub Actions CI/CD
 
 A production-style Python application demonstrating automated testing, dependency caching, package building, and versioned releases using GitHub Actions.
@@ -140,4 +138,3 @@ No production credentials or customer data are required.
 ## License
 
 MIT License.
-EOF
